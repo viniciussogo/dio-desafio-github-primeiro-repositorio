@@ -1,0 +1,8 @@
+[Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Estruturas de dados e Algorítmos](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf)
+
+[Site da Dio](https://web.dio.me/home)
+
+[Perfil LinkedIn](https://www.linkedin.com/in/viniciussogo/)
+
